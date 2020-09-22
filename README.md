@@ -1,0 +1,1 @@
+This is Tarvalas practicing git with CLI instead of GUI.
